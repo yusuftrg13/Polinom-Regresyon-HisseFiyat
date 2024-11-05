@@ -1,0 +1,1 @@
+# Polinom-Regresyon-HisseFiyat
